@@ -1,0 +1,4 @@
+settings = {
+    "prefix": "b!",
+    "TOKEN": ""
+}
